@@ -1,4 +1,4 @@
-# Skinskan
+# Skinskan - School of AI International HealthHack
 Sacramento Health AI Hackathon Project - Consumer Skin Cancer Recognition App
 
 By Rithwik Sudharsan, Edison Li, Alex Fung, Mario Ishhe, and Huzaifa Ahmad
